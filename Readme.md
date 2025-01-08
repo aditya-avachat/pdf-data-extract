@@ -40,8 +40,7 @@ pip install pdfplumber
    ```
    python main.py
    ```
-
-    3.**Check the Output** : The script will extract the required fields from the PDF and save the results as a JSON file (`extracted_data.json`). A confirmation 					  message will be printed to the console.
+3. **Check the Output** : The script will extract the required fields from the PDF and save the results as a JSON file (`extracted_data.json`). A confirmation 					  message will be printed to the console.
 
 
 
